@@ -1,1 +1,2 @@
-# Estructura-de-Datos-y-Algoritmos-II
+Jesús Fornieles Muñoz
+Pablo Gómez Rivas
